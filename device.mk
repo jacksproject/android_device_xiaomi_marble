@@ -35,7 +35,6 @@ $(call soong_config_set,xiaomi_sm8450_sensor_notifier,extension_lib,//device/xia
 
 # Overlay
 PRODUCT_PACKAGES += \
-    ApertureResMarble \
     FrameworksResMarble \
     NfcResMarble \
     SettingsProviderResMarble \
